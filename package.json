@@ -1,12 +1,22 @@
 {
   "name": "DucMinhTan-bonus",
   "version": "1.0.0",
-  "description": "",
   "main": "bonus.test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanPhan1112/DucMinhTan-Unit8.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TanPhan1112/DucMinhTan-Unit8/issues"
+  },
+  "homepage": "https://github.com/TanPhan1112/DucMinhTan-Unit8#readme",
+  "description": ""
 }
