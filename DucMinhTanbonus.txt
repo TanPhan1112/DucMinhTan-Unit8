@@ -1,0 +1,10 @@
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [2m./[22m[1mbonus.test.js[22m
+  [32m✓[39m [2mMultiple of 3 (156 ms)[22m
+  [32m✓[39m [2mMultiple of 5 (234 ms)[22m
+  [32m✓[39m [2mMultiple of both 3 and 5 (162 ms)[22m
+
+[1mTest Suites: [22m[1m[33m2 skipped[39m[22m, [1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[33m5 skipped[39m[22m, [1m[32m3 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2.221 s
+[2mRan all test suites[22m[2m.[22m
