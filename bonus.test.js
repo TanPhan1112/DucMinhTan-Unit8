@@ -1,9 +1,9 @@
-const { multipleOf3 } = require('./multipleOf3.js');
+const { multipleOf3 } = require('./multipleOf3.js').default;
 const { multipleOf5 } = require('./multipleOf5.js');
 const { multipleOf3and5 } = require('./multipleOf3and5.js');
 
 // The operation should print the text "I am a multiple of 3" next to the numbers that are multiple of 3 from 1 to 100.
-test('Multiple of 3', () => {
+test("Multiple of 3", () => {
     expect(multipleOf3(3)).toBe(0)
 });
 
