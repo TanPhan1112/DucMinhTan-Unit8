@@ -14,6 +14,7 @@
             "single"
         ],
         "no-extra-semi": "warn",
-        "no-empty": "warn"
+        "no-empty": "warn",
+        "no-duplicate-case": "warn"
     }
 }
