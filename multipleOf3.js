@@ -10,4 +10,7 @@ const multipleOf3 = (a, b) => {
     return b;
 };
 
-module.exports = { multipleOf3 };
+if (a) {
+}
+
+export default { multipleOf3 };
